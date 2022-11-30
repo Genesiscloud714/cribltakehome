@@ -1,7 +1,27 @@
 {
+  "name": "cribltakehome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "node sys_webserverapis/webserverapis.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genesiscloud714/cribltakehome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Genesiscloud714/cribltakehome/issues"
+  },
   "dependencies": {
     "axios": "^1.2.0",
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mocha": "^10.1.0"
   }
 }

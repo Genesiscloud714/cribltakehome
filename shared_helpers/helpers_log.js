@@ -1,19 +1,23 @@
 const fs = require('fs');
 const readline = require('readline');
+const path = require('path');
+
 
 function getLogsEventsForServer(fileName, text, numOfMatches)
 {
-    const filePath = `../var/log/${fileName}`;
-    console.log(filePath);
+    const filePath = path.resolve(__dirname, '../var/log', fileName);
     if (!fs.existsSync(filePath)) throw new Error('ERROR: Could not retrieve logs from server 01');
+
     const fileContent = fs.readFileSync(filePath, {encoding:'utf8'});
-    // KMP algorithim
+
+    // perform KMP algorithim
     const textLength = text.length;
     let lps = new Array(textLength, 0);
 
+    // preprocess pattern for longest prefix suffix
     let prevLps = 0;
     let i = 0;
-    while (i < textLength) //pattern
+    while (i < textLength)
     {
         if (text[i] == text[prevLps])
         {
@@ -31,7 +35,8 @@ function getLogsEventsForServer(fileName, text, numOfMatches)
             prevLps = lps[prevLps - 1];
         }
     }
-    // going through the file and returning match pattern
+
+    // iterate text file and accumulate lines containing matched pattern
     let j = 0;
     let k = 0;
     let prevIdx = -1
@@ -42,6 +47,7 @@ function getLogsEventsForServer(fileName, text, numOfMatches)
     const set = new Set();
     while (j < fileLength)
     {
+        // accumulate lines when carriage return/newline encountered
         if (fileContent[j] == '\r' || fileContent[j] == '\n') 
         {
             if (j + 1 < fileLength && fileContent[j] == '\r' && fileContent[j + 1] == '\n') {
@@ -65,6 +71,7 @@ function getLogsEventsForServer(fileName, text, numOfMatches)
             prevIdx = j;
         }
 
+        // KMP algorithim
         if (fileContent[j] == text[k])
         {
             j = j + 1;

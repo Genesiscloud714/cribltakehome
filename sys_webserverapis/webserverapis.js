@@ -2,22 +2,14 @@ const port = 3000;
 
 const express = require('express');
 const cors = require('cors');
-const corsOption =
-{
-    origin: function (origin, callback) {
-        console.log('origin: ', origin);
-        if (['http://localhost:8080', 'http://localhost:3000','http://localhost:3001','http://localhost:3002'].indexOf(origin) !== -1 || !origin) { callback(null, true); }
-        else { callback(new Error('Not allowed by CORS')); }
-    },
-};
+
 const apiArray = require('./apis/logapis.js');
 
 // ============================================================================
 // Express Routes and Statics
 // ============================================================================
 const app = express();
-app.use(cors(corsOption));                          // Resolves cross-origin resource sharing
-app.options('*', cors())                            // Enables pre-flighting for requests with methods other than GET/HEAD/POST (like DELETE)
+app.use(cors());                          // Resolves cross-origin resource sharing
 app.use(express.json({limit: '10mb'}));             // for parsing application/json
 
 // ============================================================================
@@ -71,3 +63,5 @@ app.use(errorResourceNotFound);
 app.listen(port, () => {
     console.log(`Listening on port ${port}`);
 });
+
+module.exports = app;
