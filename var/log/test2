@@ -1,0 +1,304 @@
+00:07:43 Fetched Current Settings...
+00:07:43 jobIndex: 0
+00:22:59 Launch Job: jobFnGitCleanCheck
+00:22:59 Checking Git status
+00:22:59 Clean status, skipping email notification
+00:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 149ms]
+00:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 149ms]
+00:52:43 Fetched Current Settings...
+00:52:43 jobIndex: 0
+00:52:59 Launch Job: jobFnGitCleanCheck
+00:52:59 Checking Git status
+00:52:59 Clean status, skipping email notification
+00:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 150ms]
+00:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 150ms]
+01:22:59 Launch Job: jobFnGitCleanCheck
+01:22:59 Checking Git status
+01:22:59 Clean status, skipping email notification
+01:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 150ms]
+01:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 150ms]
+01:37:43 Fetched Current Settings...
+01:37:43 jobIndex: 0
+01:52:59 Launch Job: jobFnGitCleanCheck
+01:52:59 Checking Git status
+01:52:59 Clean status, skipping email notification
+01:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 148ms]
+01:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 148ms]
+02:22:43 Fetched Current Settings...
+02:22:43 jobIndex: 0
+02:22:59 Launch Job: jobFnGitCleanCheck
+02:22:59 Checking Git status
+02:22:59 Clean status, skipping email notification
+02:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 144ms]
+02:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 145ms]
+02:52:59 Launch Job: jobFnGitCleanCheck
+02:52:59 Checking Git status
+02:52:59 Clean status, skipping email notification
+02:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 153ms]
+02:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 153ms]
+03:07:43 Fetched Current Settings...
+03:07:43 jobIndex: 0
+03:22:59 Launch Job: jobFnGitCleanCheck
+03:22:59 Checking Git status
+03:22:59 Clean status, skipping email notification
+03:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 149ms]
+03:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 149ms]
+03:52:43 Fetched Current Settings...
+03:52:43 jobIndex: 0
+03:52:59 Launch Job: jobFnGitCleanCheck
+03:52:59 Checking Git status
+03:52:59 Clean status, skipping email notification
+03:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 149ms]
+03:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 149ms]
+04:22:59 Launch Job: jobFnGitCleanCheck
+04:22:59 Checking Git status
+04:22:59 Clean status, skipping email notification
+04:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 132ms]
+04:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 132ms]
+04:37:43 Fetched Current Settings...
+04:37:43 jobIndex: 0
+04:52:59 Launch Job: jobFnGitCleanCheck
+04:52:59 Checking Git status
+04:52:59 Clean status, skipping email notification
+04:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 149ms]
+04:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 149ms]
+05:22:43 Fetched Current Settings...
+05:22:43 jobIndex: 0
+05:22:59 Launch Job: jobFnGitCleanCheck
+05:22:59 Checking Git status
+05:22:59 Clean status, skipping email notification
+05:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 144ms]
+05:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 144ms]
+05:52:59 Launch Job: jobFnGitCleanCheck
+05:52:59 Checking Git status
+05:52:59 Clean status, skipping email notification
+05:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 151ms]
+05:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 151ms]
+06:07:43 Fetched Current Settings...
+06:07:43 jobIndex: 0
+06:22:59 Launch Job: jobFnGitCleanCheck
+06:22:59 Checking Git status
+06:22:59 Clean status, skipping email notification
+06:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 150ms]
+06:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 150ms]
+06:52:43 Fetched Current Settings...
+06:52:43 jobIndex: 0
+06:52:59 Launch Job: jobFnGitCleanCheck
+06:52:59 Checking Git status
+06:52:59 Clean status, skipping email notification
+06:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 148ms]
+06:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 149ms]
+07:22:59 Launch Job: jobFnGitCleanCheck
+07:22:59 Checking Git status
+07:22:59 Clean status, skipping email notification
+07:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 157ms]
+07:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 157ms]
+07:37:43 Fetched Current Settings...
+07:37:43 jobIndex: 0
+07:52:59 Launch Job: jobFnGitCleanCheck
+07:52:59 Checking Git status
+07:52:59 Clean status, skipping email notification
+07:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 158ms]
+07:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 158ms]
+08:22:43 Fetched Current Settings...
+08:22:43 jobIndex: 0
+08:22:59 Launch Job: jobFnGitCleanCheck
+08:22:59 Checking Git status
+08:22:59 Clean status, skipping email notification
+08:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 158ms]
+08:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 158ms]
+08:52:59 Launch Job: jobFnGitCleanCheck
+08:52:59 Checking Git status
+08:52:59 Clean status, skipping email notification
+08:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 156ms]
+08:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 156ms]
+09:07:43 Fetched Current Settings...
+09:07:43 jobIndex: 0
+09:22:59 Launch Job: jobFnGitCleanCheck
+09:22:59 Checking Git status
+09:22:59 Clean status, skipping email notification
+09:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 154ms]
+09:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 154ms]
+09:52:43 Fetched Current Settings...
+09:52:43 jobIndex: 0
+09:52:59 Launch Job: jobFnGitCleanCheck
+09:52:59 Checking Git status
+09:52:59 Clean status, skipping email notification
+09:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 162ms]
+09:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 162ms]
+10:22:59 Launch Job: jobFnGitCleanCheck
+10:22:59 Checking Git status
+10:22:59 Clean status, skipping email notification
+10:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 161ms]
+10:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 161ms]
+10:37:43 Fetched Current Settings...
+10:37:43 jobIndex: 0
+10:52:59 Launch Job: jobFnGitCleanCheck
+10:52:59 Checking Git status
+10:52:59 Clean status, skipping email notification
+10:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 152ms]
+10:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 152ms]
+11:22:43 Fetched Current Settings...
+11:22:43 jobIndex: 0
+11:22:59 Launch Job: jobFnGitCleanCheck
+11:22:59 Checking Git status
+11:22:59 Clean status, skipping email notification
+11:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 157ms]
+11:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 157ms]
+11:52:59 Launch Job: jobFnGitCleanCheck
+11:52:59 Checking Git status
+11:52:59 Clean status, skipping email notification
+11:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 172ms]
+11:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 173ms]
+12:07:43 Fetched Current Settings...
+12:07:43 jobIndex: 0
+12:22:59 Launch Job: jobFnGitCleanCheck
+12:22:59 Checking Git status
+12:22:59 Clean status, skipping email notification
+12:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 166ms]
+12:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 166ms]
+12:52:43 Fetched Current Settings...
+12:52:43 jobIndex: 0
+12:52:59 Launch Job: jobFnGitCleanCheck
+12:52:59 Checking Git status
+12:52:59 Clean status, skipping email notification
+12:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 165ms]
+12:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 165ms]
+13:22:59 Launch Job: jobFnGitCleanCheck
+13:22:59 Checking Git status
+13:22:59 Clean status, skipping email notification
+13:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 126ms]
+13:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 126ms]
+13:37:43 Fetched Current Settings...
+13:37:43 jobIndex: 0
+13:52:59 Launch Job: jobFnGitCleanCheck
+13:52:59 Checking Git status
+13:52:59 Clean status, skipping email notification
+13:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 156ms]
+13:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 156ms]
+14:22:43 Fetched Current Settings...
+14:22:43 jobIndex: 0
+14:22:59 Launch Job: jobFnGitCleanCheck
+14:22:59 Checking Git status
+14:22:59 Clean status, skipping email notification
+14:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 148ms]
+14:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 148ms]
+14:52:59 Launch Job: jobFnGitCleanCheck
+14:52:59 Checking Git status
+14:52:59 Clean status, skipping email notification
+14:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 148ms]
+14:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 148ms]
+15:07:43 Fetched Current Settings...
+15:07:43 jobIndex: 0
+15:22:59 Launch Job: jobFnGitCleanCheck
+15:22:59 Checking Git status
+15:22:59 Clean status, skipping email notification
+15:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 148ms]
+15:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 148ms]
+15:52:43 Fetched Current Settings...
+15:52:43 jobIndex: 0
+15:52:59 Launch Job: jobFnGitCleanCheck
+15:52:59 Checking Git status
+15:52:59 Clean status, skipping email notification
+15:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 156ms]
+15:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 156ms]
+16:22:59 Launch Job: jobFnGitCleanCheck
+16:22:59 Checking Git status
+16:22:59 Clean status, skipping email notification
+16:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 142ms]
+16:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 142ms]
+16:37:43 Fetched Current Settings...
+16:37:43 jobIndex: 0
+16:52:59 Launch Job: jobFnGitCleanCheck
+16:52:59 Checking Git status
+16:52:59 Clean status, skipping email notification
+16:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 146ms]
+16:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 146ms]
+17:22:43 Fetched Current Settings...
+17:22:43 jobIndex: 0
+17:22:59 Launch Job: jobFnGitCleanCheck
+17:22:59 Checking Git status
+17:22:59 Clean status, skipping email notification
+17:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 142ms]
+17:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 142ms]
+17:52:59 Launch Job: jobFnGitCleanCheck
+17:52:59 Checking Git status
+17:52:59 Clean status, skipping email notification
+17:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 139ms]
+17:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 140ms]
+18:07:43 Fetched Current Settings...
+18:07:43 jobIndex: 0
+18:22:59 Launch Job: jobFnGitCleanCheck
+18:22:59 Checking Git status
+18:22:59 Clean status, skipping email notification
+18:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 143ms]
+18:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 143ms]
+18:52:43 Fetched Current Settings...
+18:52:43 jobIndex: 0
+18:52:59 Launch Job: jobFnGitCleanCheck
+18:52:59 Checking Git status
+18:52:59 Clean status, skipping email notification
+18:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 134ms]
+18:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 134ms]
+19:22:59 Launch Job: jobFnGitCleanCheck
+19:22:59 Checking Git status
+19:22:59 Clean status, skipping email notification
+19:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 146ms]
+19:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 146ms]
+19:37:43 Fetched Current Settings...
+19:37:43 jobIndex: 0
+19:52:59 Launch Job: jobFnGitCleanCheck
+19:52:59 Checking Git status
+19:52:59 Clean status, skipping email notification
+19:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 141ms]
+19:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 141ms]
+20:22:43 Fetched Current Settings...
+20:22:43 jobIndex: 0
+20:22:59 Launch Job: jobFnGitCleanCheck
+20:22:59 Checking Git status
+20:22:59 Clean status, skipping email notification
+20:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 146ms]
+20:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 146ms]
+20:52:59 Launch Job: jobFnGitCleanCheck
+20:52:59 Checking Git status
+20:52:59 Clean status, skipping email notification
+20:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 150ms]
+20:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 150ms]
+21:07:43 Fetched Current Settings...
+21:07:43 jobIndex: 0
+21:22:59 Launch Job: jobFnGitCleanCheck
+21:22:59 Checking Git status
+21:22:59 Clean status, skipping email notification
+21:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 149ms]
+21:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 149ms]
+21:52:43 Fetched Current Settings...
+21:52:43 jobIndex: 0
+21:52:59 Launch Job: jobFnGitCleanCheck
+21:52:59 Checking Git status
+21:52:59 Clean status, skipping email notification
+21:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 147ms]
+21:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 147ms]
+22:22:59 Launch Job: jobFnGitCleanCheck
+22:22:59 Checking Git status
+22:22:59 Clean status, skipping email notification
+22:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 133ms]
+22:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 133ms]
+22:37:43 Fetched Current Settings...
+22:37:43 jobIndex: 0
+22:52:59 Launch Job: jobFnGitCleanCheck
+22:52:59 Checking Git status
+22:52:59 Clean status, skipping email notification
+22:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 151ms]
+22:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 151ms]
+23:22:43 Fetched Current Settings...
+23:22:43 jobIndex: 0
+23:22:59 Launch Job: jobFnGitCleanCheck
+23:22:59 Checking Git status
+23:22:59 Clean status, skipping email notification
+23:22:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 146ms]
+23:22:59 Finished Job: jobFnGitCleanCheck [JobTime: 146ms]
+23:52:59 Launch Job: jobFnGitCleanCheck
+23:52:59 Checking Git status
+23:52:59 Clean status, skipping email notification
+23:52:59 Cycle Job Complete: jobFnGitCleanCheck [ProcTime: 146ms]
+23:52:59 Finished Job: jobFnGitCleanCheck [JobTime: 146ms]
